@@ -6,8 +6,8 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Bolt Admin Dashboard',
-  description: 'Admin dashboard for Bolt movie discussion platform',
+  title: 'Diss-Cuss Admin Dashboard',
+  description: 'Admin dashboard for Diss-Cuss movie discussion platform',
 };
 
 export default function RootLayout({
